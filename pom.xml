@@ -19,6 +19,11 @@
 		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 				<!--
 		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+						<!--
+		MODIFIED BY GITX -->
+				https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+						<!--
+		MODIFIED BY GITX -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
