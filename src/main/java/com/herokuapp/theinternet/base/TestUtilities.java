@@ -6,6 +6,7 @@ public class TestUtilities extends BaseTest {
 	protected void sleep(long millis) {
 		try {
 			Thread.sleep(millis);
+			System.out.println("Sleep");
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}

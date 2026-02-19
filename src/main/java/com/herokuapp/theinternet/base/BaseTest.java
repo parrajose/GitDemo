@@ -28,6 +28,7 @@ public class BaseTest {
 		
 		BrowserDriverFactory factory = new BrowserDriverFactory(browser);
 		driver = factory.createDriver();
+		System.out.println("SUCCESS: Element found! Text value is:");
 
 		
 
